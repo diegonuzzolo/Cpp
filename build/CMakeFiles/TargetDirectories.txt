@@ -1,0 +1,3 @@
+/home/diego/Documenti/Magma/build/CMakeFiles/Magma.dir
+/home/diego/Documenti/Magma/build/CMakeFiles/edit_cache.dir
+/home/diego/Documenti/Magma/build/CMakeFiles/rebuild_cache.dir
